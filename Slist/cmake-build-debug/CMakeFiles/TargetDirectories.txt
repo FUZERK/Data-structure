@@ -1,0 +1,3 @@
+C:/c_and_cpp/C/learning/Slist/cmake-build-debug/CMakeFiles/Slist.dir
+C:/c_and_cpp/C/learning/Slist/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/c_and_cpp/C/learning/Slist/cmake-build-debug/CMakeFiles/rebuild_cache.dir
