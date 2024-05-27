@@ -51,8 +51,9 @@ int StackEmpty(Stack* ps){
 }
 
 void StackDestroy(Stack* ps){
-    assert(ps->_a);
+    assert(ps);
+    free(ps->_a);
     ps->_a=NULL;
     ps->_top=ps->_capacity=0;
-    free(ps);
+
 }

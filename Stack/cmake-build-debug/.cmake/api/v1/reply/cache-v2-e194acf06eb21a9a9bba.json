@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/c_and_cpp/C/learning/Stack/cmake-build-debug"
+			"value" : "c:/c_and_cpp/C/learning_DATA_STRUCTURE/Stack/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/c_and_cpp/C/learning/Stack/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/c_and_cpp/C/learning_DATA_STRUCTURE/Stack/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/c_and_cpp/C/learning/Stack"
+			"value" : "C:/c_and_cpp/C/learning_DATA_STRUCTURE/Stack"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1135,7 +1135,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/c_and_cpp/C/learning/Stack/cmake-build-debug"
+			"value" : "C:/c_and_cpp/C/learning_DATA_STRUCTURE/Stack/cmake-build-debug"
 		},
 		{
 			"name" : "Stack_IS_TOP_LEVEL",
@@ -1159,7 +1159,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/c_and_cpp/C/learning/Stack"
+			"value" : "C:/c_and_cpp/C/learning_DATA_STRUCTURE/Stack"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

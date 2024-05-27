@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/c_and_cpp/C/learning/Stack/cmake-build-debug",
-		"source" : "C:/c_and_cpp/C/learning/Stack"
+		"build" : "C:/c_and_cpp/C/learning_DATA_STRUCTURE/Stack/cmake-build-debug",
+		"source" : "C:/c_and_cpp/C/learning_DATA_STRUCTURE/Stack"
 	},
 	"version" : 
 	{
