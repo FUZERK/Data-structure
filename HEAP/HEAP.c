@@ -98,3 +98,23 @@ int HeapEmpty(Heap* hp) {
 	if (hp->_size != 0)return 0;
 	else return -1;
 }
+
+void HeapSort(int* arr, int n) {
+	//降序排列 小堆
+	//向上调整法 
+	//for (int i = 1; i < n; i++) {
+	//	AdjustUp(arr, i);
+	//}
+	//向下调整法建堆
+	for (int i = (n - 1 - 1) / 2; i >= 0; i--) {
+		AdjustDown(arr, n, i);
+	}
+
+	int end = n - 1;
+	while (end>0) {
+		Swap(&arr[0], &arr[end]);
+		AdjustDown(arr, end, 0);
+		end--;
+	}
+
+}

@@ -23,3 +23,7 @@ HPDataType HeapTop(Heap* hp);
 int HeapSize(Heap* hp);
 // 堆的判空
 int HeapEmpty(Heap* hp);
+
+void HeapSort(int* a, int n);
+
+void AdjustDown(HPDataType* arr, int n, int parent);
